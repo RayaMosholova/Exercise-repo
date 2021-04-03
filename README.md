@@ -1,2 +1,3 @@
 # Exercise-repo
-Hello
+Trying to make a conflict...
+We fixed the conflict.
